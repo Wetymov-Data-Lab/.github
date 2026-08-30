@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Wetymov-Data-Lab"><img src="https://github.com/Wetymov-Data-Lab/.github/blob/main/profile/assets/logo.png" alt="WDL"></a>
-</p>
+</p> -->
 <p align="center">
     <em>WDL is a platform for designing, visualizing, and documenting database structures. It enables you to model tables and their attributes, define primary and foreign keys, establish relationships between entities, and build a complete ER schema before implementing the database.</em>
 </p>
