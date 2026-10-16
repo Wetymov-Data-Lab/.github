@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-22C55E?style=for-the-badge&labelColor=111827" alt="Status">
   <img src="https://img.shields.io/badge/focus-database%20modeling-7C3AED?style=for-the-badge&labelColor=111827" alt="Database modeling">
-  <img src="https://img.shields.io/badge/open-source-F59E0B?style=for-the-badge&labelColor=111827&logo=opensourceinitiative&logoColor=white" alt="Open Source">
 </p>
 
 <p align="center">
